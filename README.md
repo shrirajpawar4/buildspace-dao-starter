@@ -1,6 +1,6 @@
 # buildspace x thirdweb - Build your own DAO with just Javascript
 
-#I made this cool F1 DAO as a part of buildspace project!
+# I made this cool F1 DAO as a part of buildspace project!
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
